@@ -1,0 +1,6 @@
+.import/
+.mono/
+default_env.tres
+*.translation
+export_presets.cfg
+Action RPG Resources/
