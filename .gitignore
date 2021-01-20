@@ -1,5 +1,10 @@
 .import/
 .mono/
+
+# Git Plugin for Godot Engine
+git_api*
+libgitapi*
+
 default_env.tres
 *.translation
 export_presets.cfg
